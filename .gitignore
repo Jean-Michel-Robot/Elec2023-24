@@ -11,6 +11,8 @@ __Previews
 *.log
 *.htm
 *.$$$
+*.zip
+
 
 #useless dirs
 Project\ Outputs
