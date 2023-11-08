@@ -1,4 +1,12 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Test_Project\Test_Project.PrjPCB
+ProjectPath=Formation\Référence\PCB_Velo.PrjPCB
+[Project2]
+ProjectPath=Formation\AxelPCB.PrjPCB
+[Project3]
+ProjectPath=Formation\lampe_velo_mathis.PrjPCB
+[Project4]
+ProjectPath=Formation\Adam\PCB_project_lampe_Adam.PrjPCB
+[Project5]
+ProjectPath=Formation\PCB_guillaume\PCB_lampe.PrjPCB
