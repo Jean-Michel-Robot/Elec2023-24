@@ -1,4 +1,10 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Adam\PCB_project_lampe_Adam.PrjPCB
+ProjectPath=Adam.PrjPcb
+[Project2]
+ProjectPath=PCB_Axel.PrjPcb
+[Project3]
+ProjectPath=PCB_guillaume.PrjPcb
+[Project4]
+ProjectPath=Référence.PrjPcb
