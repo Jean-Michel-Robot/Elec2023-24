@@ -8,3 +8,5 @@ ProjectPath=PCB_Axel\AxelPCB.PrjPCB
 ProjectPath=PCB_guillaume\PCB_lampe.PrjPCB
 [Project4]
 ProjectPath=Référence\PCB_Velo.PrjPCB
+[Project5]
+ProjectPath=pcb_mathis\lampe_velo_mathis.PrjPCB
