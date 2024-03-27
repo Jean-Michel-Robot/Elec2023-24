@@ -225,6 +225,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXPBOGQX
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Raspi_Hat\Board Information - PCB_Rapsi_Hat.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Raspi_Hat\Net Status - PCB_Rapsi_Hat.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
